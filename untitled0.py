@@ -7,7 +7,7 @@
 import streamlit as st
 """
 
-st.title("My First Python Web App")
+set.title("My First Python Web App")
 
 st.write("Welcome! This app was build entirely on a Chromebook")
 
