@@ -9,7 +9,7 @@ import streamlit as st
 
 st.title("My First Python Web App")
 
-st.write("Welcome! This app was build entirely on a Chromebook")
+st.write("Welcome! This app was built entirely on a Chromebook")
 
 st.header("currency converter")
 
