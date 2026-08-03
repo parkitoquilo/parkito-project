@@ -32,7 +32,7 @@ print("i am going to be a software engineer")
 
 print (course.upper())
 
-!pip install streamlit -q
+
 
 """%%writefile app.py
 
