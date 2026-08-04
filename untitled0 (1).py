@@ -32,7 +32,7 @@ print("i am going to be a software engineer")
 
 print (course.upper())
 
-!pip install streamlit -q
+
 
 """%%writefile app.py"""
 
@@ -62,4 +62,3 @@ if user_answer == 90:
 elif user_answer != 0:
     st.error("Not quite right yet. Try again!")
 
-!npx localtunnel --port 8501
